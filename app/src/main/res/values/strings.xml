@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LMDelivery</string>
+    <string name="action_settings">Settings</string>
+    <string name="deliveries">Deliveries</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="delivery_info">Delivery Information</string>
+    <string name="no_data_is_available">No Data is Available</string>
+</resources>
